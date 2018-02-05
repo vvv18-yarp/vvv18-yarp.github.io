@@ -16,18 +16,18 @@
             "score": 1
         },
         {
-            "name": "tutorial_RFModule",
-            "url": "https://github.com/vvv-school/tutorial_RFModule.git",
+            "name": "tutorial_RFModule-simple",
+            "url": "https://github.com/vvv-school/tutorial_RFModule-simple.git",
             "score": 1
         },        
         {
-            "name": "tutorial_yarp-multithreading",
-            "url": "https://github.com/vvv-school/tutorial_yarp-multithreading.git",
+            "name": "tutorial_yarp-producer-consumer",
+            "url": "https://github.com/vvv-school/tutorial_yarp-producer-consumer.git",
             "score": 1
         },
         {
-            "name": "tutorial_yarp-idl",
-            "url": "https://github.com/vvv-school/tutorial_yarp-idl.git",
+            "name": "tutorial_joint-interface",
+            "url": "https://github.com/vvv-school/tutorial_joint-interface.git",
             "score": 1
         }
         
@@ -35,14 +35,9 @@
 
     "assignments": [
         {
-            "name": "assignment_producer-consumer",
-            "url": "https://github.com/vvv-school/assignment_producer-consumer.git",
+            "name": "assignment_motor-control",
+            "url": "https://github.com/vvv-school/assignment_motor-control.git",
             "score": 5
-        },    
-        {
-            "name": "assignment_codec",
-            "url": "https://github.com/vvv-school/assignment_codec.git",
-            "score": 4
-        }        
+        }      
     ]    
 }
