@@ -480,10 +480,15 @@
         "name": "tutorial_yarp-ports-fbottarel",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-producer-consumer-fbottarel",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 2
+    "score": 3
   },
   {
     "username": "nikmayr2",
