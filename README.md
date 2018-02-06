@@ -214,8 +214,9 @@
 | [tutorial_yarpmanager-umgnunes](https://github.com/vvv18-yarp/tutorial_yarpmanager-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-umgnunes](https://github.com/vvv18-yarp/tutorial_yarp-ports-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-umgnunes](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-umgnunes) | :white_check_mark: | **1** |
+| [tutorial_yarp-rpc-umgnunes](https://github.com/vvv18-yarp/tutorial_yarp-rpc-umgnunes) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
