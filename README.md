@@ -244,8 +244,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-fbottarel](https://github.com/vvv18-yarp/tutorial_yarpmanager-fbottarel) | :white_check_mark: | **1** |
+| [tutorial_yarp-ports-fbottarel](https://github.com/vvv18-yarp/tutorial_yarp-ports-fbottarel) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
