@@ -139,8 +139,9 @@
 | [tutorial_yarpmanager-ericpairet](https://github.com/vvv18-yarp/tutorial_yarpmanager-ericpairet) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-ericpairet](https://github.com/vvv18-yarp/tutorial_yarp-ports-ericpairet) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-ericpairet](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-ericpairet) | :white_check_mark: | **1** |
+| [tutorial_yarp-rpc-ericpairet](https://github.com/vvv18-yarp/tutorial_yarp-rpc-ericpairet) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
