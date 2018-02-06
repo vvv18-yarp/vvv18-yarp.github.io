@@ -148,8 +148,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-jtalamini](https://github.com/vvv18-yarp/tutorial_yarpmanager-jtalamini) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-jtalamini](https://github.com/vvv18-yarp/tutorial_yarp-ports-jtalamini) | :white_check_mark: | **1** |
+| [tutorial_yarp-producer-consumer-jtalamini](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-jtalamini) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
