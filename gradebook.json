@@ -569,10 +569,15 @@
         "name": "tutorial_yarp-producer-consumer-science-code",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-rpc-science-code",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 3
+    "score": 4
   },
   {
     "username": "yidiem",
