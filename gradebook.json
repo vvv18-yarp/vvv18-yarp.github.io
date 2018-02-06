@@ -526,10 +526,15 @@
         "name": "tutorial_yarp-producer-consumer-njm12",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-rpc-njm12",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 3
+    "score": 4
   },
   {
     "username": "UgoVollhardt",
