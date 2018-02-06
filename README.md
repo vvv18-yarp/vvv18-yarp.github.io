@@ -131,8 +131,9 @@
 | [tutorial_yarp-ports-anqingd](https://github.com/vvv18-yarp/tutorial_yarp-ports-anqingd) | :white_check_mark: | **1** |
 | [tutorial_yarpmanager-anqingd](https://github.com/vvv18-yarp/tutorial_yarpmanager-anqingd) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-anqingd](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-anqingd) | :white_check_mark: | **1** |
+| [tutorial_yarp-rpc-anqingd](https://github.com/vvv18-yarp/tutorial_yarp-rpc-anqingd) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
