@@ -328,8 +328,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-yidiem](https://github.com/vvv18-yarp/tutorial_yarpmanager-yidiem) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-yidiem](https://github.com/vvv18-yarp/tutorial_yarp-ports-yidiem) | :white_check_mark: | **1** |
+| [tutorial_yarp-producer-consumer-yidiem](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-yidiem) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
