@@ -102,8 +102,9 @@
 | [tutorial_yarp-producer-consumer-Meylina](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-Meylina) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-Meylina](https://github.com/vvv18-yarp/tutorial_yarp-rpc-Meylina) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-Meylina](https://github.com/vvv18-yarp/tutorial_RFModule-simple-Meylina) | :white_check_mark: | **1** |
+| [tutorial_joint-interface-Meylina](https://github.com/vvv18-yarp/tutorial_joint-interface-Meylina) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
