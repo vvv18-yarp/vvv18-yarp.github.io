@@ -10,9 +10,9 @@
 | [tutorial_yarp-rpc-atabakd](https://github.com/vvv18-yarp/tutorial_yarp-rpc-atabakd) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-atabakd](https://github.com/vvv18-yarp/tutorial_RFModule-simple-atabakd) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-atabakd](https://github.com/vvv18-yarp/tutorial_joint-interface-atabakd) | :white_check_mark: | **1** |
-| [assignment_motor-control-atabakd](https://github.com/vvv18-yarp/assignment_motor-control-atabakd) | :x: | **0** |
+| [assignment_motor-control-atabakd](https://github.com/vvv18-yarp/assignment_motor-control-atabakd) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
