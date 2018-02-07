@@ -432,9 +432,9 @@
 | [tutorial_yarp-rpc-yidiem](https://github.com/vvv18-yarp/tutorial_yarp-rpc-yidiem) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-yidiem](https://github.com/vvv18-yarp/tutorial_RFModule-simple-yidiem) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-yidiem](https://github.com/vvv18-yarp/tutorial_joint-interface-yidiem) | :white_check_mark: | **1** |
-| [assignment_motor-control-yidiem](https://github.com/vvv18-yarp/assignment_motor-control-yidiem) | :x: | **0** |
+| [assignment_motor-control-yidiem](https://github.com/vvv18-yarp/assignment_motor-control-yidiem) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
 
 ---
 
