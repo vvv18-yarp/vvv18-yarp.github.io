@@ -307,8 +307,9 @@
 | [tutorial_yarp-producer-consumer-marco-monforte](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-marco-monforte) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-marco-monforte](https://github.com/vvv18-yarp/tutorial_yarp-rpc-marco-monforte) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-marco-monforte](https://github.com/vvv18-yarp/tutorial_RFModule-simple-marco-monforte) | :white_check_mark: | **1** |
+| [tutorial_joint-interface-marco-monforte](https://github.com/vvv18-yarp/tutorial_joint-interface-marco-monforte) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
