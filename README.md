@@ -227,6 +227,7 @@
 | [tutorial_yarp-rpc-jasonsiver](https://github.com/vvv18-yarp/tutorial_yarp-rpc-jasonsiver) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-jasonsiver](https://github.com/vvv18-yarp/tutorial_RFModule-simple-jasonsiver) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-jasonsiver](https://github.com/vvv18-yarp/tutorial_joint-interface-jasonsiver) | :white_check_mark: | **1** |
+| [assignment_motor-control-jasonsiver](https://github.com/vvv18-yarp/assignment_motor-control-jasonsiver) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
