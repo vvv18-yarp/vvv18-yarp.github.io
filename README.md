@@ -8,8 +8,9 @@
 | [tutorial_yarp-ports-atabakd](https://github.com/vvv18-yarp/tutorial_yarp-ports-atabakd) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-atabakd](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-atabakd) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-atabakd](https://github.com/vvv18-yarp/tutorial_yarp-rpc-atabakd) | :white_check_mark: | **1** |
+| [tutorial_RFModule-simple-atabakd](https://github.com/vvv18-yarp/tutorial_RFModule-simple-atabakd) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
