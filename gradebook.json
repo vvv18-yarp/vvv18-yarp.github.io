@@ -784,7 +784,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_motor-control-marco-monforte",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 5
+      }
+    ],
     "score": 6
   },
   {
