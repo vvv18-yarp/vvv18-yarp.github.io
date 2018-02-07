@@ -260,8 +260,9 @@
 | [tutorial_yarp-ports-AbbasSidaoui](https://github.com/vvv18-yarp/tutorial_yarp-ports-AbbasSidaoui) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-AbbasSidaoui](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-AbbasSidaoui) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-AbbasSidaoui](https://github.com/vvv18-yarp/tutorial_yarp-rpc-AbbasSidaoui) | :white_check_mark: | **1** |
+| [tutorial_RFModule-simple-AbbasSidaoui](https://github.com/vvv18-yarp/tutorial_RFModule-simple-AbbasSidaoui) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
