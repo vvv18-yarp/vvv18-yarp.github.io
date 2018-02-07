@@ -725,12 +725,12 @@
     "assignments": [
       {
         "name": "assignment_motor-control-samvinanzi",
-        "status": ":x:",
-        "last_commit_date": "2018-02-02 15:41:42 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-07 13:42:38 UTC",
+        "score": 7
       }
     ],
-    "score": 6
+    "score": 13
   },
   {
     "username": "AbbasSidaoui",
