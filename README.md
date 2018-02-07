@@ -27,9 +27,9 @@
 | [tutorial_yarp-rpc-PCH313](https://github.com/vvv18-yarp/tutorial_yarp-rpc-PCH313) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-PCH313](https://github.com/vvv18-yarp/tutorial_RFModule-simple-PCH313) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-PCH313](https://github.com/vvv18-yarp/tutorial_joint-interface-PCH313) | :white_check_mark: | **1** |
-| [assignment_motor-control-PCH313](https://github.com/vvv18-yarp/assignment_motor-control-PCH313) | :x: | **0** |
+| [assignment_motor-control-PCH313](https://github.com/vvv18-yarp/assignment_motor-control-PCH313) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
