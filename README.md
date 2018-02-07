@@ -165,8 +165,9 @@
 | [tutorial_yarp-producer-consumer-ericpairet](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-ericpairet) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-ericpairet](https://github.com/vvv18-yarp/tutorial_yarp-rpc-ericpairet) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-ericpairet](https://github.com/vvv18-yarp/tutorial_RFModule-simple-ericpairet) | :white_check_mark: | **1** |
+| [tutorial_joint-interface-ericpairet](https://github.com/vvv18-yarp/tutorial_joint-interface-ericpairet) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
