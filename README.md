@@ -243,6 +243,7 @@
 | [tutorial_yarp-rpc-JuanMiguelAlvarez](https://github.com/vvv18-yarp/tutorial_yarp-rpc-JuanMiguelAlvarez) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-JuanMiguelAlvarez](https://github.com/vvv18-yarp/tutorial_RFModule-simple-JuanMiguelAlvarez) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-JuanMiguelAlvarez](https://github.com/vvv18-yarp/tutorial_joint-interface-JuanMiguelAlvarez) | :white_check_mark: | **1** |
+| [assignment_motor-control-JuanMiguelAlvarez](https://github.com/vvv18-yarp/assignment_motor-control-JuanMiguelAlvarez) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
