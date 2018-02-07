@@ -340,7 +340,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_motor-control-gonzalezJohnas",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 5
+      }
+    ],
     "score": 6
   },
   {
