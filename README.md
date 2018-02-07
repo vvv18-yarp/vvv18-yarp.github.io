@@ -200,8 +200,9 @@
 | [tutorial_yarp-ports-jasonsiver](https://github.com/vvv18-yarp/tutorial_yarp-ports-jasonsiver) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-jasonsiver](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-jasonsiver) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-jasonsiver](https://github.com/vvv18-yarp/tutorial_yarp-rpc-jasonsiver) | :white_check_mark: | **1** |
+| [tutorial_RFModule-simple-jasonsiver](https://github.com/vvv18-yarp/tutorial_RFModule-simple-jasonsiver) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
