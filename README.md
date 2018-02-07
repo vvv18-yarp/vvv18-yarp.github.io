@@ -337,6 +337,7 @@
 | [tutorial_yarp-rpc-njm12](https://github.com/vvv18-yarp/tutorial_yarp-rpc-njm12) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-njm12](https://github.com/vvv18-yarp/tutorial_RFModule-simple-njm12) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-njm12](https://github.com/vvv18-yarp/tutorial_joint-interface-njm12) | :white_check_mark: | **1** |
+| [assignment_motor-control-njm12](https://github.com/vvv18-yarp/assignment_motor-control-njm12) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
