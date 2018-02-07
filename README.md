@@ -330,9 +330,9 @@
 | [tutorial_yarp-rpc-marco-monforte](https://github.com/vvv18-yarp/tutorial_yarp-rpc-marco-monforte) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-marco-monforte](https://github.com/vvv18-yarp/tutorial_RFModule-simple-marco-monforte) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-marco-monforte](https://github.com/vvv18-yarp/tutorial_joint-interface-marco-monforte) | :white_check_mark: | **1** |
-| [assignment_motor-control-marco-monforte](https://github.com/vvv18-yarp/assignment_motor-control-marco-monforte) | :x: | **0** |
+| [assignment_motor-control-marco-monforte](https://github.com/vvv18-yarp/assignment_motor-control-marco-monforte) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
