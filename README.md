@@ -331,8 +331,9 @@
 | [tutorial_yarp-producer-consumer-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-UgoVollhardt) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_yarp-rpc-UgoVollhardt) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_RFModule-simple-UgoVollhardt) | :white_check_mark: | **1** |
+| [tutorial_joint-interface-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_joint-interface-UgoVollhardt) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
