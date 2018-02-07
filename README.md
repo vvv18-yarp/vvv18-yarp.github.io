@@ -118,8 +118,9 @@
 | [tutorial_yarpmanager-kosenhitatchi](https://github.com/vvv18-yarp/tutorial_yarpmanager-kosenhitatchi) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-kosenhitatchi](https://github.com/vvv18-yarp/tutorial_yarp-ports-kosenhitatchi) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-kosenhitatchi](https://github.com/vvv18-yarp/tutorial_RFModule-simple-kosenhitatchi) | :white_check_mark: | **1** |
+| [tutorial_joint-interface-kosenhitatchi](https://github.com/vvv18-yarp/tutorial_joint-interface-kosenhitatchi) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
