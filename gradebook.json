@@ -556,10 +556,15 @@
         "name": "tutorial_RFModule-simple-umgnunes",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_joint-interface-umgnunes",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 5
+    "score": 6
   },
   {
     "username": "samvinanzi",
