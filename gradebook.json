@@ -326,10 +326,15 @@
         "name": "tutorial_yarp-rpc-ericpairet",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_RFModule-simple-ericpairet",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 4
+    "score": 5
   },
   {
     "username": "jtalamini",
