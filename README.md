@@ -335,8 +335,9 @@
 | [tutorial_yarp-ports-fbottarel](https://github.com/vvv18-yarp/tutorial_yarp-ports-fbottarel) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-fbottarel](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-fbottarel) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-fbottarel](https://github.com/vvv18-yarp/tutorial_yarp-rpc-fbottarel) | :white_check_mark: | **1** |
+| [tutorial_RFModule-simple-fbottarel](https://github.com/vvv18-yarp/tutorial_RFModule-simple-fbottarel) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
