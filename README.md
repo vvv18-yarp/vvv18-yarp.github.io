@@ -206,6 +206,7 @@
 | [tutorial_yarp-producer-consumer-Rayne91](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-Rayne91) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-Rayne91](https://github.com/vvv18-yarp/tutorial_yarp-rpc-Rayne91) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-Rayne91](https://github.com/vvv18-yarp/tutorial_RFModule-simple-Rayne91) | :white_check_mark: | **1** |
+| [assignment_motor-control-Rayne91](https://github.com/vvv18-yarp/assignment_motor-control-Rayne91) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
