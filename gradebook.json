@@ -1071,7 +1071,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_motor-control-DonatiElisa",
+        "status": ":x:",
+        "last_commit_date": "2018-02-02 15:41:42 UTC",
+        "score": 5
+      }
+    ],
     "score": 6
   }
 ]
