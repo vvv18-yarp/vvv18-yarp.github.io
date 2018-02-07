@@ -33,7 +33,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_motor-control-atabakd",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 5
+      }
+    ],
     "score": 6
   },
   {
