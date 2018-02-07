@@ -395,8 +395,9 @@
 | [tutorial_yarp-ports-DonatiElisa](https://github.com/vvv18-yarp/tutorial_yarp-ports-DonatiElisa) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-DonatiElisa](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-DonatiElisa) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-DonatiElisa](https://github.com/vvv18-yarp/tutorial_yarp-rpc-DonatiElisa) | :white_check_mark: | **1** |
+| [tutorial_RFModule-simple-DonatiElisa](https://github.com/vvv18-yarp/tutorial_RFModule-simple-DonatiElisa) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
