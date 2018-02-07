@@ -68,8 +68,9 @@
 | [tutorial_yarp-ports-osm3000](https://github.com/vvv18-yarp/tutorial_yarp-ports-osm3000) | :white_check_mark: | **1** |
 | [tutorial_yarp-producer-consumer-osm3000](https://github.com/vvv18-yarp/tutorial_yarp-producer-consumer-osm3000) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-osm3000](https://github.com/vvv18-yarp/tutorial_yarp-rpc-osm3000) | :white_check_mark: | **1** |
+| [tutorial_RFModule-simple-osm3000](https://github.com/vvv18-yarp/tutorial_RFModule-simple-osm3000) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
