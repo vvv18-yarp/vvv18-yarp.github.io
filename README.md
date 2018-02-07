@@ -354,6 +354,7 @@
 | [tutorial_yarp-rpc-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_yarp-rpc-UgoVollhardt) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_RFModule-simple-UgoVollhardt) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-UgoVollhardt](https://github.com/vvv18-yarp/tutorial_joint-interface-UgoVollhardt) | :white_check_mark: | **1** |
+| [assignment_motor-control-UgoVollhardt](https://github.com/vvv18-yarp/assignment_motor-control-UgoVollhardt) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
