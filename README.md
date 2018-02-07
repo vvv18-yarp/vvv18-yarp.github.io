@@ -262,9 +262,9 @@
 | [tutorial_yarp-rpc-umgnunes](https://github.com/vvv18-yarp/tutorial_yarp-rpc-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-umgnunes](https://github.com/vvv18-yarp/tutorial_RFModule-simple-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-umgnunes](https://github.com/vvv18-yarp/tutorial_joint-interface-umgnunes) | :white_check_mark: | **1** |
-| [assignment_motor-control-umgnunes](https://github.com/vvv18-yarp/assignment_motor-control-umgnunes) | :x: | **0** |
+| [assignment_motor-control-umgnunes](https://github.com/vvv18-yarp/assignment_motor-control-umgnunes) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
