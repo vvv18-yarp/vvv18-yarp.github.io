@@ -161,9 +161,9 @@
 | [tutorial_yarp-rpc-anqingd](https://github.com/vvv18-yarp/tutorial_yarp-rpc-anqingd) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-anqingd](https://github.com/vvv18-yarp/tutorial_RFModule-simple-anqingd) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-anqingd](https://github.com/vvv18-yarp/tutorial_joint-interface-anqingd) | :white_check_mark: | **1** |
-| [assignment_motor-control-anqingd](https://github.com/vvv18-yarp/assignment_motor-control-anqingd) | :x: | **0** |
+| [assignment_motor-control-anqingd](https://github.com/vvv18-yarp/assignment_motor-control-anqingd) | :white_check_mark: | **14** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-20-brightgreen.svg?style=flat-square)
 
 ---
 
