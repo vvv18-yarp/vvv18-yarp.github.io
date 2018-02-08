@@ -195,9 +195,9 @@
 | [tutorial_yarp-rpc-jtalamini](https://github.com/vvv18-yarp/tutorial_yarp-rpc-jtalamini) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-jtalamini](https://github.com/vvv18-yarp/tutorial_RFModule-simple-jtalamini) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-jtalamini](https://github.com/vvv18-yarp/tutorial_joint-interface-jtalamini) | :white_check_mark: | **1** |
-| [assignment_motor-control-jtalamini](https://github.com/vvv18-yarp/assignment_motor-control-jtalamini) | :x: | **0** |
+| [assignment_motor-control-jtalamini](https://github.com/vvv18-yarp/assignment_motor-control-jtalamini) | :white_check_mark: | **6** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-12-brightgreen.svg?style=flat-square)
 
 ---
 
