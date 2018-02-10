@@ -416,9 +416,9 @@
 | [tutorial_yarp-rpc-science-code](https://github.com/vvv18-yarp/tutorial_yarp-rpc-science-code) | :white_check_mark: | **1** |
 | [tutorial_RFModule-simple-science-code](https://github.com/vvv18-yarp/tutorial_RFModule-simple-science-code) | :white_check_mark: | **1** |
 | [tutorial_joint-interface-science-code](https://github.com/vvv18-yarp/tutorial_joint-interface-science-code) | :white_check_mark: | **1** |
-| [assignment_motor-control-science-code](https://github.com/vvv18-yarp/assignment_motor-control-science-code) | :x: | **0** |
+| [assignment_motor-control-science-code](https://github.com/vvv18-yarp/assignment_motor-control-science-code) | :white_check_mark: | **10** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-16-brightgreen.svg?style=flat-square)
 
 ---
 
